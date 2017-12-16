@@ -1,6 +1,8 @@
+##
 # solution.rb
 #
-# Author::  Kyle Mullins
+# AUTHOR::  Kyle Mullins
+##
 
 module Day03
   class Part1
